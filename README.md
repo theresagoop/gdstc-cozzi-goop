@@ -215,14 +215,10 @@ If you use this replication package, please cite:
 For questions about replication or data access:
 
 **Theresa Goop**  
-University of St. Gallen  
-[Email address]  
-[ORCID if available]
+theresa.goop@adon.li
 
 **Guido Cozzi**  
-University of St. Gallen  
-[Email address]  
-[ORCID if available]
+guido.cozzi@unisg.ch
 
 ---
 
@@ -231,8 +227,8 @@ University of St. Gallen
 We thank the Swiss Federal Statistical Office for providing access to the 
 confidential microdata under grant 100018_219686. We are grateful to 
 Daron Acemoglu, Patricia Cortes, Michelle Rendall, and Bruno Caprettini for 
-valuable feedback. Financial support from the Swiss National Science Foundation 
-is gratefully acknowledged.
+valuable feedback to the paper. Financial support from the 
+Swiss National Science Foundation is gratefully acknowledged.
 
 All remaining errors are our own.
 
