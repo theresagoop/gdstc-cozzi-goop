@@ -1,4 +1,4 @@
-# Replication Package: Gender-Directed Sector-Specific Technical Change
+# Replication for: Gender-Directed Sector-Specific Technical Change
 
 **Authors:** Guido Cozzi, Theresa Goop  
 **Affiliation:** University of St. Gallen  
