@@ -215,7 +215,7 @@ If you use this replication package, please cite:
 For questions about replication or data access:
 
 **Theresa Goop**  
-theresa.goop@adon.li
+theresa.goop@unisg.ch
 
 **Guido Cozzi**  
 guido.cozzi@unisg.ch
