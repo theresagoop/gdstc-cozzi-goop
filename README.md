@@ -236,5 +236,5 @@ All remaining errors are our own.
 
 **Last updated:** February 7, 2026  
 **Repository version:** 1.0  
-**DOI:** 
+**DOI:** 10.5281/zenodo.18518747
 
